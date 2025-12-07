@@ -1,0 +1,50 @@
+name: health_care_web
+description: Disease prediction Flutter Web App
+
+publish_to: "none"
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # State management
+  get: ^4.6.5
+  
+  # HTTP client
+  http: ^1.1.0
+  
+  # Animations
+  lottie: ^2.7.0
+  
+  # Auto-complete
+  flutter_typeahead: ^4.3.1
+  
+  # Local storage
+  shared_preferences: ^2.2.2
+  
+  # Internationalization - match flutter_localizations version
+  intl: ^0.20.2  # Changed from ^0.18.1 to ^0.20.2
+  
+  # Icons
+  cupertino_icons: ^1.0.5
+  flutter_localizations:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  
+  # Linting
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  
+  assets:
+    - assets/symptoms.json
+    - assets/animations/education.json
+    - assets/animations/loading.json
+    - assets/animations/health_animation.json
