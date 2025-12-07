@@ -1,112 +1,81 @@
-🏥 AI Health Assistant - Smart Medical Diagnosis Web App
+# 🏥 AI Health Assistant - Smart Medical Diagnosis Web App
+
 <div align="center">
-https://img.shields.io/badge/AI-Health%2520Assistant-blue?style=for-the-badge&logo=google-assistant&logoColor=white
-https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white
-https://img.shields.io/badge/Web-Ready-green?style=for-the-badge&logo=web&logoColor=white
-https://img.shields.io/badge/Multi--Language-English%2520%2526%2520Hindi-orange?style=for-the-badge&logo=language&logoColor=white
 
-Live Demo: hdaps.netlify.app • Accuracy: 98%+ • Diseases: 100+
+![AI Health Assistant](https://img.shields.io/badge/AI-Health%20Assistant-blue?style=for-the-badge&logo=google-assistant&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Web](https://img.shields.io/badge/Web-Ready-green?style=for-the-badge&logo=web&logoColor=white)
+![Multi-Language](https://img.shields.io/badge/Multi--Language-English%20%26%20Hindi-orange?style=for-the-badge&logo=language&logoColor=white)
 
-https://api.netlify.com/api/v1/badges/YOUR_BADGE_ID/deploy-status
-https://img.shields.io/badge/License-MIT-yellow.svg
+**Live Demo: [hdaps.netlify.app](https://hdaps.netlify.app)** • **Accuracy: 98%+** • **Diseases: 100+**
 
-A sophisticated AI-powered health diagnosis platform that analyzes symptoms and predicts diseases with high accuracy
+[![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR_BADGE_ID/deploy-status)](https://app.netlify.com/sites/hdaps/deploys)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+*A sophisticated AI-powered health diagnosis platform that analyzes symptoms and predicts diseases with high accuracy*
 
 </div>
-✨ Features
-🎯 Core Capabilities
-🤖 AI-Powered Diagnosis: Machine learning model with 98%+ accuracy
 
-🌐 Multi-Language Support: English & Hindi interface with real-time translation
+## ✨ Features
 
-📱 Progressive Web App: Install as native app on any device
+### 🎯 **Core Capabilities**
+- **🤖 AI-Powered Diagnosis**: Machine learning model with 98%+ accuracy
+- **🌐 Multi-Language Support**: English & Hindi interface with real-time translation
+- **📱 Progressive Web App**: Install as native app on any device
+- **⚡ Real-time Analysis**: Instant symptom analysis and disease prediction
+- **🔍 Smart Symptom Detection**: Fuzzy matching for symptom recognition
+- **📊 Professional PDF Reports**: Download comprehensive medical reports
 
-⚡ Real-time Analysis: Instant symptom analysis and disease prediction
+### 🩺 **Medical Features**
+- **100+ Diseases Database**: Comprehensive medical knowledge base
+- **Severity Assessment**: Critical/High/Medium/Low risk classification
+- **Alternate Diagnoses**: Shows multiple possible conditions with probabilities
+- **Precaution Guidelines**: Step-by-step medical recommendations
+- **Follow-up Questions**: AI-generated questions for better diagnosis
+- **Multilingual Symptom Input**: Type symptoms in English or Hindi
 
-🔍 Smart Symptom Detection: Fuzzy matching for symptom recognition
+### 🎨 **User Experience**
+- **Modern UI/UX**: Beautiful gradient designs with smooth animations
+- **Responsive Design**: Works perfectly on mobile, tablet, and desktop
+- **Offline Support**: Partial functionality without internet
+- **Dark/Light Mode**: Coming soon in next update
+- **Loading Animations**: Engaging Lottie animations throughout
 
-📊 Professional PDF Reports: Download comprehensive medical reports
+## 🚀 Live Demo
 
-🩺 Medical Features
-100+ Diseases Database: Comprehensive medical knowledge base
-
-Severity Assessment: Critical/High/Medium/Low risk classification
-
-Alternate Diagnoses: Shows multiple possible conditions with probabilities
-
-Precaution Guidelines: Step-by-step medical recommendations
-
-Follow-up Questions: AI-generated questions for better diagnosis
-
-Multilingual Symptom Input: Type symptoms in English or Hindi
-
-🎨 User Experience
-Modern UI/UX: Beautiful gradient designs with smooth animations
-
-Responsive Design: Works perfectly on mobile, tablet, and desktop
-
-Offline Support: Partial functionality without internet
-
-Dark/Light Mode: Coming soon in next update
-
-Loading Animations: Engaging Lottie animations throughout
-
-🚀 Live Demo
 <div align="center">
-🌐 Try it now: hdaps.netlify.app
-https://img.shields.io/badge/TRY_LIVE_DEMO-FF6B6B?style=for-the-badge&logo=netlify&logoColor=white
-https://img.shields.io/badge/REPORT_ISSUE-333333?style=for-the-badge&logo=github&logoColor=white
+
+### 🌐 **Try it now: [hdaps.netlify.app](https://hdaps.netlify.app)**
+
+[![Live Demo](https://img.shields.io/badge/TRY_LIVE_DEMO-FF6B6B?style=for-the-badge&logo=netlify&logoColor=white)](https://hdaps.netlify.app)
+[![Report Issue](https://img.shields.io/badge/REPORT_ISSUE-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/health-care-web/issues)
 
 </div>
-📸 Screenshots
-Home Screen	Symptom Input	Results
-https://via.placeholder.com/300x600/4A90E2/FFFFFF?text=AI+Health+Assistant+Home	https://via.placeholder.com/300x600/50E3C2/FFFFFF?text=Symptom+Input+Screen	https://via.placeholder.com/300x600/9013FE/FFFFFF?text=Diagnosis+Results
-Real screenshots coming soon!
 
-🏗️ Architecture
+## 📸 Screenshots
 
+| Home Screen | Symptom Input | Results |
+|-------------|---------------|---------|
+| ![Home](https://via.placeholder.com/300x600/4A90E2/FFFFFF?text=AI+Health+Assistant+Home) | ![Input](https://via.placeholder.com/300x600/50E3C2/FFFFFF?text=Symptom+Input+Screen) | ![Results](https://via.placeholder.com/300x600/9013FE/FFFFFF?text=Diagnosis+Results) |
 
+*Real screenshots coming soon!*
 
+## 🏗️ Architecture
 
-
-
-
-
-
-
-
-
-🛠️ Tech Stack
-Frontend
-Flutter Web - Cross-platform framework
-
-GetX - State management & dependency injection
-
-Lottie - Beautiful animations
-
-TypeAhead - Smart input suggestions
-
-PDF/Printing - Report generation
-
-Backend
-FastAPI - Python web framework
-
-Scikit-learn - Machine learning (Naive Bayes)
-
-RapidFuzz - Fuzzy string matching
-
-Pickle - Model serialization
-
-Render.com - Hosting
-
-Infrastructure
-Netlify - Frontend hosting & CDN
-
-Render - Backend API hosting
-
-GitHub - Version control
-
-GitHub Actions - CI/CD pipeline
+```mermaid
+graph TB
+    A[User Input] --> B[Flutter Web App]
+    B --> C{Frontend Processing}
+    C --> D[Symptom Normalization]
+    C --> E[Language Translation]
+    D --> F[API Request]
+    E --> F
+    F --> G[FastAPI Backend]
+    G --> H[AI Model Inference]
+    H --> I[Disease Prediction]
+    I --> J[Response Processing]
+    J --> K[Results Display]
+    K --> L[PDF Report Generation]
 
 📁 Project Structure
 text
