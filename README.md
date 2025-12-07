@@ -208,7 +208,3 @@ Built with ❤️ by Saransh Sharma
 </div> ```
 
 
-✅ Write Interview explanation for this project
-
-Tell me which one you want next 💪
-
