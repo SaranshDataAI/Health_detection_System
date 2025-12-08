@@ -55,7 +55,7 @@ A sophisticated AI-powered health diagnosis platform that analyzes symptoms and 
 
 <div align="center">
 
-👉 **Try Now:** https://hdaps.netlify.app  
+👉 **Try Now:**http://hdads.netlify.app
 
 [![Live Demo](https://img.shields.io/badge/TRY_LIVE_DEMO-FF6B6B?style=for-the-badge&logo=netlify&logoColor=white)](hdads.netlify.app)
 [![Report Issue](https://img.shields.io/badge/REPORT_ISSUE-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/health-care-web/issues)
