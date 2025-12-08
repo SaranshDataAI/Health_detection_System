@@ -7,7 +7,7 @@
 ![Web Ready](https://img.shields.io/badge/Web-Ready-green?style=for-the-badge)
 ![Multi Language](https://img.shields.io/badge/Multi--Language-English%20%26%20Hindi-orange?style=for-the-badge)
 
-**🌐 Live Demo:** https://hdaps.netlify.app  
+**🌐 Live Demo:** http://hdads.netlify.app 
 **🎯 Accuracy:** 98%+  
 **🦠 Diseases Covered:** 100+
 
